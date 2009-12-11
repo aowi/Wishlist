@@ -200,6 +200,12 @@ Games
 
 ### Wii Games
 - Fire Emblem: Radiant Dawn
+- Okami
+- Metroid Prime Trilogy
+- Resident Evil: The Darkside Chronicles
+- Resident Evil: The Umbrella Chronicles
+- No More Heroes
+- No More Heroes 2: Desperate Struggle
 
 ### Nintendo DS Games
 - The world ends with you
@@ -334,6 +340,13 @@ Merchandise
 - Nagisa Furukawa from Clannad
 - Saber from Fate/Stay Night
 - Kasukaba Saki from Genshiken
+- [Shana PVC Statue][shanapvc]
+- [Kusanagi Motoko PVC Statue][kusanagipvc]
+- [Final Fantasy VII: Advent Children - Sephiroth][sephpvc]
+- [Final Fantasy XII - Ashe][ashepvc]
+- [Final Fantasy XII - Vaan][vaanpvc]
+- [Final Fantasy XII - Balthier][balthierpvc]
+- [Final Fantasy IV - Collection Set][ffivpvc]
 
 ### Other
 - Final Fantasy artwork and concept art by Yoshitaka Amano
@@ -357,3 +370,10 @@ Merchandise
 [amazonjp]: https://www.amazon.co.jp/wishlist/G6ITG4SZ1X8V
 [thinkgeekwl]: https://www.thinkgeek.com/brain/gimme.cgi?wid=81d2b48da
 [lamyink]: http://www.kontorforretning.dk/11_skriveartikler/blaek_blaekpatroner/blkpatron_lamy_t10_bl_120_da.html
+[shanapvc]: http://www.amazon.co.uk/Shakugan-Shana-Swimsuit-PVC-Statue/dp/B000NVLJQ0/ref=sr_1_2?ie=UTF8&s=kids&qid=1260565504&sr=1-2
+[kusanagipvc]: http://www.amazon.co.uk/Ghost-Shell-Mokoto-Kusanagi-Action/dp/B00005NHG9/ref=sr_1_1?ie=UTF8&s=kids&qid=1260565566&sr=1-1
+[sephpvc]: http://www.amazon.co.uk/Final-Fantasy-Advent-Children-Sephiroth/dp/B0009F3EPY/ref=sr_1_22?ie=UTF8&s=kids&qid=1260565844&sr=1-22
+[ashepvc]: http://www.amazon.co.uk/Final-Fantasy-XII-Action-Figure/dp/B000NVLJMY/ref=sr_1_2?ie=UTF8&s=kids&qid=1260565844&sr=1-2
+[vaanpvc]: http://www.amazon.co.uk/Final-Fantasy-XII-Action-Figure/dp/B000NVLJMO/ref=sr_1_4?ie=UTF8&s=kids&qid=1260565844&sr=1-4
+[balthierpvc]: http://www.amazon.co.uk/Final-Fantasy-XII-Action-Figure/dp/B000NVLJN8/ref=sr_1_3?ie=UTF8&s=kids&qid=1260565844&sr=1-3
+[ffivpvc]: http://www.amazon.co.uk/FINAL-FANTASY-TRADING-ARTS-MINI/dp/B0012LN7O2/ref=sr_1_1?ie=UTF8&qid=1260566016&sr=1-1-fkmr0
