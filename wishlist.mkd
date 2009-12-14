@@ -220,7 +220,6 @@ Games
 - Children of Mana
 - Final Fantasy III
 - The Legend of Zelda: Phantom Hourglass
-- The Legend of Zelda: Spirit Tracks
 - Chrono Trigger
 - Lock's Quest
 - lostmagic
