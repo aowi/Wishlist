@@ -186,6 +186,7 @@ not even available on most English online music shops. For Japanese CDs,
 - Takt of Wind / Kaze no Tact (Legend of Zelda: Wind Waker OST)
 - Voices: Music from Final Fantasy
 - Distant Worlds: Music from Final Fantasy
+- Mirror's Edge
 
 Games
 -----
@@ -231,6 +232,10 @@ Games
 - Lunar Knights
 - Magical Starsign
 - Tetris
+
+### Playstation 3 Games
+- Mirror's Edge
+- Final Fantasy XIII
 
 ### Playstation 2 Games
 - Final Fantasy VII (only available used)
