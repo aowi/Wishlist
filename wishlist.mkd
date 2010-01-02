@@ -233,6 +233,7 @@ Games
 - Lunar Knights
 - Magical Starsign
 - Tetris
+- Kingdom Hearts 358/2 Days
 
 ### Playstation 3 Games
 - Mirror's Edge
