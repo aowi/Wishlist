@@ -18,6 +18,7 @@ Assorted stuff
 - Aida Classic white wine glass / hvidvinsglas
 - Aida Classic red wine glass / rødvinsglas
 - Sony KDL-32V5500
+- Wacom Bamboo or equivalent
 
 Kitchenware
 -----------
@@ -46,8 +47,9 @@ I generally prefer english translations of japanese books over the danish.
 - Haruki Murakami: South of the border, west of the sun _ISBN-10: 0099448572_
 - Haruki Murakami: Underground _ISBN-10: 0099461099_
 
-
 ### Non-fiction
+- J. J. Sakurai: Modern Quantum Mechanics
+- Greiner Müller: Quantum Mechanics: Symmetries
 - Luke Cuddy: The Legend of Zelda and Philosophy
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - Clifford Stoll: The Cuckoo's Egg _ISBN-10: 0385249462_
@@ -55,7 +57,6 @@ I generally prefer english translations of japanese books over the danish.
 - Yoshitoshi Abe: Lain Illustrations _ISBN-10: 1569708800_
 - Edward R. Tufte: The Visual Display of Quantitative Information
 - John Bryant et al: How Round Is Your Circle? Where Engineering and Mathematics Meet
-
 
 Music
 -----
