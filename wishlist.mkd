@@ -254,6 +254,7 @@ Games
 - Ico
 - Breath Of fire 4
 - Project Zero 1-2-3
+- Psychonauts
 - We Love Katamari
 
 
