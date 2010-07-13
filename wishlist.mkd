@@ -231,7 +231,6 @@ Games
 - The world ends with you
 - Heroes of Mana
 - Children of Mana
-- Final Fantasy III
 - The Legend of Zelda: Phantom Hourglass
 - Chrono Trigger
 - Lock's Quest
@@ -242,13 +241,9 @@ Games
 - Kingdom Hearts 358/2 Days
 
 ### Playstation 3 Games
-- Bayonetta
 - Katamari Forever
-- Final Fantasy IX (PS Store)
 - Oblivion
-- Resonance of Fate
 - Eternal Sonata
-- Dragon Age Origins
 - Nier
 
 ### Playstation 2 Games
