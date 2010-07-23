@@ -55,7 +55,6 @@ I generally prefer english translations of japanese books over the danish.
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - Clifford Stoll: The Cuckoo's Egg _ISBN-10: 0385249462_
 - Andrew Osmond: Satoshi Kon: The Illusionist _ISBN-10: 1933330740_
-- Yoshitoshi Abe: Lain Illustrations _ISBN-10: 1569708800_
 - Edward R. Tufte: The Visual Display of Quantitative Information
 - John Bryant et al: How Round Is Your Circle? Where Engineering and Mathematics Meet
 
@@ -165,7 +164,6 @@ not even available on most English online music shops. For Japanese CDs,
 - Supersilent: 4
 - Supersilent: 6
 - Supersilent: 8
-- System of a Down: Mezmerize
 - System of a Down: Steal this album
 - The Fashion: Rockrockkisskisscombo
 - The Fashion: The Fashion
@@ -175,12 +173,9 @@ not even available on most English online music shops. For Japanese CDs,
 - Under Byen: Samme stof som stof
 - Utada Hikaru: This is the one
 - Various: Rozen Maiden Strings Album
-- Veto: Crushing Digits
 - Wakeshima Kanon: Shinshoku Dolce
 - Within Temptation: Enter
-- Within Temptation: Mother Earth
 - Within Temptation: Stand my Ground EP
-- Within Temptation: The Silent Force
 - Yoko Kanno: Song to fly
 - Zero 7: When it falls
 
@@ -271,10 +266,8 @@ available, I prefer not to read any of the subsequent ones.
 - Ghost in the shell
 - Ghost in the shell 2: man machine interface
 - Ghost in the shell: solid state society
-- Azumanga Daioh
 - Excel Saga
 - Somedays Dreamers Spellbound
-- Yotsuba&!
 - Haibane Renmei
 - [Alan Moore - V for Vendetta][v]
 
