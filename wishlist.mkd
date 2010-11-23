@@ -14,7 +14,6 @@ Assorted stuff
 
 - Mathmos Aduki Ni
 - Squuezebox Duet
-- [Blue Lamy fountain pen ink][lamyink]
 - Wacom Bamboo or equivalent
 - 128GB SSD
 - 3 x 2GB DDR3 RAM
@@ -417,7 +416,6 @@ Merchandise
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
 [amazonjp]: https://www.amazon.co.jp/wishlist/G6ITG4SZ1X8V
 [thinkgeekwl]: https://www.thinkgeek.com/brain/gimme.cgi?wid=81d2b48da
-[lamyink]: http://www.kontorforretning.dk/11_skriveartikler/blaek_blaekpatroner/blkpatron_lamy_t10_lys_bl_144_da.html
 [shanapvc]: http://www.amazon.co.uk/Shakugan-Shana-Swimsuit-PVC-Statue/dp/B000NVLJQ0/ref=sr_1_2?ie=UTF8&s=kids&qid=1260565504&sr=1-2
 [kusanagipvc]: http://www.amazon.co.uk/Ghost-Shell-Mokoto-Kusanagi-Action/dp/B00005NHG9/ref=sr_1_1?ie=UTF8&s=kids&qid=1260565566&sr=1-1
 [sephpvc]: http://www.amazon.co.uk/Final-Fantasy-Advent-Children-Sephiroth/dp/B0009F3EPY/ref=sr_1_22?ie=UTF8&s=kids&qid=1260565844&sr=1-22
