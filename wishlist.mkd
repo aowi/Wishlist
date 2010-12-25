@@ -12,8 +12,6 @@ and money. Tread carefully.
 Assorted stuff
 --------------
 
-- Mathmos Aduki Ni
-- Squuezebox Duet
 - Wacom Bamboo or equivalent
 - 128GB SSD
 - 3 x 2GB DDR3 RAM
@@ -27,7 +25,6 @@ Kitchenware
 - Makiyakinabe (tamago pan, firkantet stege/omeletpande)
 - [Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål][evatrio] _DKK 449,-_
 - [Eva Trio Suppegryde, 10 ltr, rustfrit stål][evatrio] _DKK 1099,-_
-- [Eva Trio Tallerkenlåg, glas, 20 cm][evatrio] _DKK 219,75_
 - Rosendahl Grand Cru Cognacglas
 - Rosendahl Grand Cru Ølglas
 - Aida Classic white wine glass / hvidvinsglas
@@ -61,7 +58,7 @@ I generally prefer english translations of japanese books over the danish.
 - The FontBook
 
 ### Comics
-- Walt Disney's Hall of Fame: Don Rosa bog 1 - 6
+- Walt Disney's Hall of Fame: Don Rosa bog 1, 3 - 6
 
 Music
 -----
@@ -312,9 +309,7 @@ English and Danish dubs tend to suck on a cosmic scale.
 - Howl's Moving Castle
 - Kiki's Delivery Service
 - Laputa - Castle in the sky
-- My Neighbour Totoro
 - Nausicaä Of The Valley Of The Wind
-- Princess Mononoke (Mononoke Hime)
 
 ### By Katsuhiro Otomo
 - Akira
