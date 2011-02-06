@@ -253,9 +253,10 @@ Games
 - Psychonauts
 - We Love Katamari
 
-SNES Games
-----------
+### SNES Games
+
 *NB*: These can obviously only be bought used.
+
 - Top Gear (only the original)
 - Final Fantasy V (I have an NTSC-adaptor)
 - Final Fantasy VI
