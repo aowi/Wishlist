@@ -13,10 +13,6 @@ Tread carefully.
 Assorted stuff
 --------------
 
-- Wacom Bamboo or equivalent
-- 128GB SSD
-- 3 x 2GB DDR3 RAM
-- Acer Aspire Revo R3600 (fra .uk!)
 - Pakuma Akara K1 backpack or Victorinox Kehlen backpack
 
 Kitchenware
@@ -24,9 +20,8 @@ Kitchenware
 
 - Nigiri-forms (yeah, yeah, it's cheating, I know)
 - Makiyakinabe (tamago pan, firkantet stege/omeletpande)
-- [Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål][evatrio] _DKK 449,-_
-- [Eva Trio Suppegryde, 10 ltr, rustfrit stål][evatrio] _DKK 1099,-_
-- Rosendahl Grand Cru Cognacglas
+- Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål _DKK 449,-_
+- Eva Trio Suppegryde, 10 ltr, rustfrit stål _DKK 1099,-_
 
 Books
 -----
@@ -49,7 +44,6 @@ I generally prefer english translations of japanese books over the danish.
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - Clifford Stoll: The Cuckoo's Egg _ISBN-10: 0385249462_
 - Andrew Osmond: Satoshi Kon: The Illusionist _ISBN-10: 1933330740_
-- Edward R. Tufte: The Visual Display of Quantitative Information
 - John Bryant et al: How Round Is Your Circle? Where Engineering and Mathematics Meet
 - The FontBook
 
@@ -162,8 +156,6 @@ not even available on most English online music shops. For Japanese CDs,
 - Utada Hikaru: This is the one
 - Various: Rozen Maiden Strings Album
 - Wakeshima Kanon: Shinshoku Dolce
-- Within Temptation: Enter
-- Within Temptation: Stand my Ground EP
 - Yoko Kanno: Song to fly
 - Zero 7: When it falls
 
@@ -222,8 +214,9 @@ Games
 - Final Fantasy XIII Versus
 - Final Fantasy XIII-2
 - ICO Collection
-- Assassin's Creed: Brotherhood
+- Assassin's Creed: Revelation
 - Journey
+- The Last Guardian
 
 ### Playstation 2 Games
 - Dark Cloud / dark chronicle
@@ -301,7 +294,6 @@ English and Danish dubs tend to suck on a cosmic scale.
 - The Borrower Arietty
 - Ponyo
 - Howl's Moving Castle
-- Kiki's Delivery Service
 - Laputa - Castle in the sky
 - Porco Rosso
 - The Cat Returns
@@ -331,25 +323,18 @@ English and Danish dubs tend to suck on a cosmic scale.
 - Anything by Studio 4C
 
 ### Series & Boxsets
-- Ah! My Goddess
 - Azumanga Daioh
-- Chobits
-- Chrno Crusade
 - Cowboy Bebop
 - Elfen Lied
 - Ergo Proxy
 - Fate/Stay Night
 - FLCL (Fooly Cooly / Furi Kuri)
-- Full Metal Alchemist (Collection 1 & 2)
 - Genshiken
 - Ghost in the Shell: Stand Alone Complex
 - Ghost in the Shell: Stand Alone Complex 2nd gig
 - Haibane Renmei
 - Last Exile
-- Lunar Legend Tsukihime
 - Magical Shopping Arcade Abenobashi
-- Tsukuyomi ~Moonphase~
-- My-Hime
 - My-Z-Hime (My-Otome)
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion Movie Collection
@@ -369,13 +354,13 @@ Movies and TV Series
 - The Imaginarium of Dr. Parnassus
 - Joss Whedon's Firefly
 - Joss Whedon's Dollhouse
-- V (2009)
 - Across the Universe
 - Shinobi - Heart under blade
 - City of Ember
 - Crouching Tiger Hidden Dragon / Tiger på spring Drage i skjul (with original audio track!)
 - House (all seasons)
 - The X Files (season 4 and up)
+- How I Met Your Mother (all seasons)
 
 Merchandise
 -----------
