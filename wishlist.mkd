@@ -33,10 +33,6 @@ I generally prefer english translations of japanese books over the danish.
 - J.R.R. Tolkien: The Children of Hurin _ISBN-10: 0007252269_
 - Philip Pullman: Once upon a time in the north _ISBN-10: 0385614322_
 - Philip Pullman: His Dark Materials _ISBN-10: 1407104160_
-- Haruki Murakami: after the quake _ISBN-10: 0099448564_
-- Haruki Murakami: Birthday Stories _ISBN-10: 1843431599_
-- Haruki Murakami: South of the border, west of the sun _ISBN-10: 0099448572_
-- Haruki Murakami: Underground _ISBN-10: 0099461099_
 
 ### Non-fiction
 - J. J. Sakurai: Modern Quantum Mechanics
@@ -44,7 +40,6 @@ I generally prefer english translations of japanese books over the danish.
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - Clifford Stoll: The Cuckoo's Egg _ISBN-10: 0385249462_
 - Andrew Osmond: Satoshi Kon: The Illusionist _ISBN-10: 1933330740_
-- John Bryant et al: How Round Is Your Circle? Where Engineering and Mathematics Meet
 - The FontBook
 
 ### Comics
