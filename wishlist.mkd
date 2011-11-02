@@ -59,7 +59,6 @@ not even available on most English online music shops. For Japanese CDs,
 - ALI Project: Rose Crucifixion
 - Andrew Lloyd Webber: Cats (London cast)
 - Andrew Lloyd Webber: Jesus Christ Superstar
-- Andrew Lloyd Webber: Joseph and the amazing technicolor dream
 - Angela Aki: Home
 - Ayako Ikeda: Lunar Soup
 - Belle & Sebastian - The boy with the arab strap
@@ -72,29 +71,8 @@ not even available on most English online music shops. For Japanese CDs,
 - Boris: Flood
 - Boris: Heavy Rocks
 - Boris: Rainbow (with Michio Kurihara)
-- Boris: Smile
-- Boris: The Thing Which Solomon Overlooked
-- Boris: The Thing Which Solomon Overlooked 2
-- Boris: The Thing Which Solomon Overlooked 3
-- Boris: Vein
 - Camera Obscura: Let's get out of this country
 - Camera Obscura: My Maudlin Career
-- Carpark North: All things to all people
-- Carpark North: Carpark North
-- Carpark North: Grateful
-- Casiokids: Fuck Midi!
-- Chemical Brothers: Come With Us
-- Chemical Brothers: Dig your own hole
-- Chemical Brothers: Exit planet dust
-- Chemical Brothers: Push the button
-- Chemical Brothers: Surrender
-- Chemical Brothers: We are the night
-- Cocorosie: Adventures of ghosthorse
-- Cocorosie: La maison de mon rev
-- Cocorosie: Noah's Ark
-- D'espairsRay: Kamikaze
-- D'espairsRay: Mirror
-- Digitalism: Idealism
 - Dir en grey: Uroboros
 - eufonius: Eufonius
 - eufonius: metafysik
@@ -102,27 +80,14 @@ not even available on most English online music shops. For Japanese CDs,
 - eufonius: Subarashiki Sekai
 - Gåte: Jygri
 - Gnarls Barkley: The Odd Couple
-- Guillemots: Red
-- Guillemots: Through the window pane
 - Interpol: Antics
 - Interpol: Our Love To Admire
 - Interpol: Turn On The Bright Lights
 - Kalafina: SeventhHeaven
 - Kojima Mayumi: Musical biography 2001: 2007
 - Kojima Mayumi: My name is blue
-- Lacuna Coil: Comalies
 - L'Altra: Music for a sinking occas
 - L'Altra: Singing afternoon
-- Moi Dix Mois: Dixanadu
-- MUCC: 6
-- MUCC: Ageha
-- MUCC: Homoura Uta
-- MUCC: Houyoku
-- MUCC: LIVE AT ROPPONGI
-- MUCC: Psychedelic Analysis
-- MUCC: Shion
-- MUCC: Tsuzetsu
-- MUCC: Zekuu
 - My Bloody Valentine: Isn't Anything
 - Origa: Aurora
 - Origa: Era of queens
@@ -131,25 +96,15 @@ not even available on most English online music shops. For Japanese CDs,
 - Radiohead: Kid A
 - Radiohead: Pablo Honey
 - Radiohead: The Bends
-- Rie Fu: Rie Fu
-- Rie Fu: Rose Album
-- Rie Fu: Tobira Album
 - Rie Fu: Urban Romantic
 - Riyu Kosaka: Danzai no Hana ~Guilty Sky~
 - Riyu Kosaka: Every Struggle
-- Rumskib: Rumskib
 - Sebastian: Ronja Røverdatter
 - Sebastian: Skatteøen
 - Stephen Lynch: Superhero
-- Supersilent: 4
-- Supersilent: 6
-- Supersilent: 8
-- System of a Down: Steal this album
-- The Fashion: Rockrockkisskisscombo
-- The Fashion: The Fashion
+- Supercell: Today Is A Beautiful Day
 - Under Byen: Samme stof som stof
 - Utada Hikaru: This is the one
-- Various: Rozen Maiden Strings Album
 - Wakeshima Kanon: Shinshoku Dolce
 - Yoko Kanno: Song to fly
 - Zero 7: When it falls
@@ -163,13 +118,13 @@ not even available on most English online music shops. For Japanese CDs,
 - Voices: Music from Final Fantasy
 - Distant Worlds: Music from Final Fantasy
 - Mirror's Edge
+- A recording of the 25th anniversary Zelda Concerts if it's ever made available
 
 Games
 -----
 
 ### Board Games
 - Munchkin
-- Civilization: The Board Game (not sold anymore, only availabled online, used)
 - Go (The japanese board game)
 - Mahjong tiles
 - Dart Flights
@@ -178,11 +133,9 @@ Games
 - Settlers of Catan: Cities and Knights: Expansion for 5-6 players
 
 ### Wii Games
-- Fire Emblem: Radiant Dawn
 - Okami
 - Metroid Prime Trilogy
 - Super Mario Galaxy 2
-- Red Steel 2
 - Sin & Punishment 2
 - Arc Rise Fantasia
 - Fragile Dreams: Farewell Ruins of the Moon
@@ -209,9 +162,11 @@ Games
 - Final Fantasy XIII Versus
 - Final Fantasy XIII-2
 - ICO Collection
-- Assassin's Creed: Revelation
+- Assassin's Creed: Revelations
 - Journey
 - The Last Guardian
+- Saint's Row the Third
+- GTA V
 
 ### Playstation 2 Games
 - Dark Cloud / dark chronicle
@@ -234,35 +189,25 @@ Manga & Graphic Novels
 
 *NB:* Please: no manga in Danish!
 
-A list of the series I currently collect is available [here][mangalist]. Any
-new releases not listed in the Volumes column are most welcome. The following
-list is of series and oneshots I have not yet begun collecting or bought.
+The following list is of series and oneshots I have not yet begun collecting or
+bought.
 
 *NB:* Please do not buy the volumes out-of-order. If the first volume isn't
 available, I prefer not to read any of the subsequent ones.
 
-- Maid Sama
 - Mpd Psycho
 - Hayao Miyazaki Starting Point
 - Buddha (Ozamu Tezuka)
 - MW (Ozamu Tezuka)
 - Ode to Kirihito (Ozamu Tezuka)
 - Saikano
-- Spice and Wolf
-- My Hime
-- Sumomomo Momomo
-- School Rumble
 - This Ugly Yet Beautiful World
 - Tsukuyomi Moon Phase
 - Welcome to the NHK
 - Black Jack (Ozamu Tezuka)
-- Dance in the Vampire Bund
 - Excel Saga
-- Full Metal Panic
-- Full Metal Panic: Overload
 - Fullmetal Alchemist
 - Future Diary
-- Gantz
 - Ghost in the shell
 - Ghost in the shell 2: man machine interface
 - Ghost in the shell: solid state society
@@ -330,9 +275,9 @@ English and Danish dubs tend to suck on a cosmic scale.
 - Haibane Renmei
 - Last Exile
 - Magical Shopping Arcade Abenobashi
-- My-Z-Hime (My-Otome)
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion Movie Collection
+- Nichijou
 - Paranoia Agent
 - R.O.D. (Read or Die)
 - R.O.D. (Read or Dream)
@@ -348,14 +293,13 @@ Movies and TV Series
 
 - The Imaginarium of Dr. Parnassus
 - Joss Whedon's Firefly
-- Joss Whedon's Dollhouse
 - Across the Universe
 - Shinobi - Heart under blade
 - City of Ember
 - Crouching Tiger Hidden Dragon / Tiger på spring Drage i skjul (with original audio track!)
-- House (all seasons)
 - The X Files (season 4 and up)
 - How I Met Your Mother (all seasons)
+- Game of Thrones
 
 Merchandise
 -----------
@@ -367,9 +311,6 @@ Merchandise
 - [Shana PVC Statue][shanapvc]
 - [Kusanagi Motoko PVC Statue][kusanagipvc]
 - [Final Fantasy VII: Advent Children - Sephiroth][sephpvc]
-- [Final Fantasy XII - Ashe][ashepvc]
-- [Final Fantasy XII - Vaan][vaanpvc]
-- [Final Fantasy XII - Balthier][balthierpvc]
 - [Final Fantasy IV - Collection Set][ffivpvc]
 
 ### Other
