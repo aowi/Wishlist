@@ -36,7 +36,6 @@ I generally prefer english translations of japanese books over the danish.
 
 ### Non-fiction
 - J. J. Sakurai: Modern Quantum Mechanics
-- Luke Cuddy: The Legend of Zelda and Philosophy
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - Clifford Stoll: The Cuckoo's Egg _ISBN-10: 0385249462_
 - Andrew Osmond: Satoshi Kon: The Illusionist _ISBN-10: 1933330740_
@@ -118,7 +117,6 @@ not even available on most English online music shops. For Japanese CDs,
 - Voices: Music from Final Fantasy
 - Distant Worlds: Music from Final Fantasy
 - Mirror's Edge
-- A recording of the 25th anniversary Zelda Concerts if it's ever made available
 
 Games
 -----
@@ -141,7 +139,6 @@ Games
 - Fragile Dreams: Farewell Ruins of the Moon
 - Another Code: R – A Journey into Lost Memories 
 - Xenoblade
-- The Legend of Zelda: Skyward Sword
 - The Last Story
 - Pandora's Tower
 
@@ -161,11 +158,8 @@ Games
 - Eternal Sonata
 - Final Fantasy XIII Versus
 - Final Fantasy XIII-2
-- ICO Collection
-- Assassin's Creed: Revelations
 - Journey
 - The Last Guardian
-- Saint's Row the Third
 - GTA V
 
 ### Playstation 2 Games
@@ -178,11 +172,9 @@ Games
 
 *NB*: These can obviously only be bought used.
 
-- Top Gear (only the original)
 - Final Fantasy V (I have an NTSC-adaptor)
 - Final Fantasy VI
 - Secret of Mana
-- Super Mario World
 
 Manga & Graphic Novels
 ----------------------
@@ -291,29 +283,17 @@ Movies and TV Series
 
 *NB:* Blu-ray is preferred when available.
 
-- The Imaginarium of Dr. Parnassus
 - Joss Whedon's Firefly
 - Across the Universe
 - Shinobi - Heart under blade
-- City of Ember
 - Crouching Tiger Hidden Dragon / Tiger på spring Drage i skjul (with original audio track!)
 - The X Files (season 4 and up)
 - How I Met Your Mother (all seasons)
 - Game of Thrones
 
-Merchandise
------------
 
-### Resin figurines
-- Bome volume 12 & 23
-- Saber from Fate/Stay Night
-- Kasukaba Saki from Genshiken
-- [Shana PVC Statue][shanapvc]
-- [Kusanagi Motoko PVC Statue][kusanagipvc]
-- [Final Fantasy VII: Advent Children - Sephiroth][sephpvc]
-- [Final Fantasy IV - Collection Set][ffivpvc]
-
-### Other
+Other
+-----
 - QC T-shirts
 - XKCD T-shirts
 
