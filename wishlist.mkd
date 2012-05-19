@@ -33,15 +33,10 @@ I generally prefer english translations of japanese books over the danish.
 ### Fiction
 
 - J.R.R. Tolkien: The Children of Hurin _ISBN-10: 0007252269_
-- Philip Pullman: Once upon a time in the north _ISBN-10: 0385614322_
-- Philip Pullman: His Dark Materials _ISBN-10: 1407104160_
 
 ### Non-fiction
 - J. J. Sakurai: Modern Quantum Mechanics
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
-- Clifford Stoll: The Cuckoo's Egg _ISBN-10: 0385249462_
-- Andrew Osmond: Satoshi Kon: The Illusionist _ISBN-10: 1933330740_
-- The FontBook
 
 ### Comics
 - Walt Disney's Hall of Fame: Don Rosa bog 1, 4- 
@@ -54,71 +49,37 @@ not even available on most English online music shops. For Japanese CDs,
 [cdjapan][cdj] is usually a good option.
 
 - A Kid Hereafter: Yo!
-- ALI Project: COLLECTION SIMPLE PLUS
 - ALI Project: Grand Finale
 - ALI Project: Psychedelic Insanity
 - ALI Project: Rose Crucifixion
-- Andrew Lloyd Webber: Cats (London cast)
-- Andrew Lloyd Webber: Jesus Christ Superstar
 - Angela Aki: Home
 - Ayako Ikeda: Lunar Soup
 - Belle & Sebastian - The boy with the arab strap
-- Björk: Homogenic
-- Björk: Medulla
-- Björk: Post
-- Björk: Vespertine
-- Boris: Akuma no Uta
-- Boris: Amplifier Worship
-- Boris: Flood
-- Boris: Heavy Rocks
 - Boris: Rainbow (with Michio Kurihara)
-- Camera Obscura: Let's get out of this country
-- Camera Obscura: My Maudlin Career
-- Dir en grey: Uroboros
 - eufonius: Eufonius
 - eufonius: metafysik
-- eufonius: Sigma
-- eufonius: Subarashiki Sekai
 - Gåte: Jygri
 - Gnarls Barkley: The Odd Couple
-- Interpol: Antics
-- Interpol: Our Love To Admire
-- Interpol: Turn On The Bright Lights
 - Kalafina: SeventhHeaven
 - Kojima Mayumi: Musical biography 2001: 2007
 - Kojima Mayumi: My name is blue
-- L'Altra: Music for a sinking occas
-- L'Altra: Singing afternoon
-- My Bloody Valentine: Isn't Anything
 - Origa: Aurora
 - Origa: Era of queens
-- Radiohead: Amnesiac
-- Radiohead: Hail to the Thief
 - Radiohead: Kid A
 - Radiohead: Pablo Honey
-- Radiohead: The Bends
 - Rie Fu: Urban Romantic
 - Riyu Kosaka: Danzai no Hana ~Guilty Sky~
 - Riyu Kosaka: Every Struggle
-- Sebastian: Ronja Røverdatter
 - Sebastian: Skatteøen
-- Stephen Lynch: Superhero
 - Supercell: Today Is A Beautiful Day
 - Under Byen: Samme stof som stof
-- Utada Hikaru: This is the one
-- Wakeshima Kanon: Shinshoku Dolce
 - Yoko Kanno: Song to fly
 - Zero 7: When it falls
 
-(The list goes on...)
-
 ### Game soundtracks
-- [Final Fantasy XII][ffxiiost]
-- Final Fantasy IV
 - Takt of Wind / Kaze no Tact (Legend of Zelda: Wind Waker OST)
 - Voices: Music from Final Fantasy
 - Distant Worlds: Music from Final Fantasy
-- Mirror's Edge
 
 Games
 -----
@@ -126,7 +87,6 @@ Games
 ### Board Games
 - Go (The japanese board game)
 - Mahjong tiles
-- Dart Flights
 - Settlers of Catan: Cities and Knights: Expansion for 5-6 players
 
 ### Wii Games
@@ -150,7 +110,6 @@ Games
 - lostmagic
 - Lunar Knights
 - Magical Starsign
-- Kingdom Hearts 358/2 Days
 
 ### Playstation 3 Games
 - Assassin's Creed III
@@ -160,8 +119,6 @@ Games
 - GTA V
 
 ### Playstation 2 Games
-- Dark Cloud / dark chronicle
-- Breath Of fire 4
 - Psychonauts
 - We Love Katamari
 
@@ -185,17 +142,9 @@ bought.
 available, I prefer not to read any of the subsequent ones.
 
 - Mpd Psycho
-- Hayao Miyazaki Starting Point
-- Buddha (Ozamu Tezuka)
-- MW (Ozamu Tezuka)
-- Ode to Kirihito (Ozamu Tezuka)
-- Saikano
-- This Ugly Yet Beautiful World
-- Tsukuyomi Moon Phase
-- Welcome to the NHK
 - Black Jack (Ozamu Tezuka)
-- Excel Saga
-- Future Diary
+- Buddha (Ozamu Tezuka)
+- Welcome to the NHK
 - Ghost in the shell
 - Ghost in the shell 2: man machine interface
 - Ghost in the shell: solid state society
@@ -220,7 +169,6 @@ English and Danish dubs tend to suck on a cosmic scale.
 - The Borrower Arietty
 - Ponyo
 - Howl's Moving Castle
-- Laputa - Castle in the sky
 - Porco Rosso
 - The Cat Returns
 - Whisper of the Heart
@@ -234,12 +182,6 @@ English and Danish dubs tend to suck on a cosmic scale.
 
 ### By Satoshi Kon
 - Paprika
-- Perfect Blue
-
-### By Shinkai Makoto
-- The Place Promised in our Early Days (Kumo no Mukou - Yakusoku no Basho)
-- 5 cm per second (Byousoku go cm)
-- Anything else
 
 ### Other movies
 - The Girl Who Leapt Through Time (Toki o kakeru shoujo)
@@ -260,11 +202,7 @@ English and Danish dubs tend to suck on a cosmic scale.
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion Movie Collection
 - Nichijou
-- Paranoia Agent
-- R.O.D. (Read or Die)
-- R.O.D. (Read or Dream)
 - Someday's Dreamers
-- Texhnolyze
 
 Movies and TV Series
 --------------------
@@ -272,18 +210,9 @@ Movies and TV Series
 *NB:* Blu-ray is preferred when available.
 
 - Joss Whedon's Firefly
-- Across the Universe
 - Shinobi - Heart under blade
 - Crouching Tiger Hidden Dragon / Tiger på spring Drage i skjul (with original audio track!)
-- The X Files (season 4 and up)
-- How I Met Your Mother (all seasons)
-- Game of Thrones
 
-
-Other
------
-- QC T-shirts
-- XKCD T-shirts
 
 ### My other wishlists
 - [Amazon.co.uk][amazonuk]
@@ -295,7 +224,6 @@ Other
 
 [evatrio]: http://www.eva-trio.com
 [cdj]: http://cdjapan.co.jp
-[mangalist]: http://wiki.frokostgruppen.dk/doku.php?id=mangalist_arkanoid
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
 [amazonjp]: https://www.amazon.co.jp/wishlist/G6ITG4SZ1X8V
 [ffxiiost]: http://www.amazon.co.uk/Final-Fantasy-Vol-Original-Soundtrack/dp/B000EWBCQ0/ref=sr_1_3?ie=UTF8&s=music&qid=1260576205&sr=1-3
