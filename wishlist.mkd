@@ -18,7 +18,7 @@ Assorted stuff
 Kitchenware
 -----------
 
-- Nigiri-forms (yeah, yeah, it's cheating, I know)
+- Nigiri-forms
 - Krydderiglas, gerne med magnetisk ophæng (gennemsigtigt glas, ikke dåser el. lign.)
 - Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål _DKK 449,-_
 - Eva Trio Suppegryde, 10 ltr, rustfrit stål _DKK 1099,-_
@@ -44,35 +44,26 @@ I generally prefer english translations of japanese books over the danish.
 Music
 -----
 
-Much of the listed music is not available in Danish music shops, and some is
-not even available on most English online music shops. For Japanese CDs,
+Some of the listed music is not available in Danish music shops, and might
+not even be available in most English online music shops. For Japanese CDs,
 [cdjapan][cdj] is usually a good option.
 
 - A Kid Hereafter: Yo!
-- ALI Project: Grand Finale
-- ALI Project: Psychedelic Insanity
 - ALI Project: Rose Crucifixion
 - Angela Aki: Home
-- Ayako Ikeda: Lunar Soup
 - Belle & Sebastian - The boy with the arab strap
 - Boris: Rainbow (with Michio Kurihara)
 - eufonius: Eufonius
 - eufonius: metafysik
 - Gåte: Jygri
 - Gnarls Barkley: The Odd Couple
-- Kalafina: SeventhHeaven
 - Kojima Mayumi: Musical biography 2001: 2007
 - Kojima Mayumi: My name is blue
 - Origa: Aurora
 - Origa: Era of queens
 - Radiohead: Kid A
 - Radiohead: Pablo Honey
-- Rie Fu: Urban Romantic
-- Riyu Kosaka: Danzai no Hana ~Guilty Sky~
-- Riyu Kosaka: Every Struggle
-- Sebastian: Skatteøen
 - Supercell: Today Is A Beautiful Day
-- Under Byen: Samme stof som stof
 - Yoko Kanno: Song to fly
 - Zero 7: When it falls
 
@@ -84,36 +75,18 @@ not even available on most English online music shops. For Japanese CDs,
 Games
 -----
 
-### Board Games
-- Go (The japanese board game)
-- Mahjong tiles
-- Settlers of Catan: Cities and Knights: Expansion for 5-6 players
-
 ### Wii Games
 - Okami
-- Metroid Prime Trilogy
-- Super Mario Galaxy 2
-- Sin & Punishment 2
-- Arc Rise Fantasia
-- Fragile Dreams: Farewell Ruins of the Moon
-- Another Code: R – A Journey into Lost Memories 
 - Xenoblade
 - The Last Story
 - Pandora's Tower
 
 ### Nintendo DS Games
 - The world ends with you
-- Heroes of Mana
-- Children of Mana
 - Chrono Trigger
-- Lock's Quest
-- lostmagic
-- Lunar Knights
-- Magical Starsign
 
 ### Playstation 3 Games
 - Assassin's Creed III
-- Eternal Sonata
 - Final Fantasy XIII Versus
 - The Last Guardian
 - GTA V
@@ -130,25 +103,16 @@ Games
 - Final Fantasy VI
 - Secret of Mana
 
-Manga & Graphic Novels
-----------------------
+Manga
+-----
 
 *NB:* Please: no manga in Danish!
 
-The following list is of series and oneshots I have not yet begun collecting or
-bought.
-
-*NB:* Please do not buy the volumes out-of-order. If the first volume isn't
-available, I prefer not to read any of the subsequent ones.
-
-- Mpd Psycho
 - Black Jack (Ozamu Tezuka)
 - Buddha (Ozamu Tezuka)
-- Welcome to the NHK
 - Ghost in the shell
 - Ghost in the shell 2: man machine interface
 - Ghost in the shell: solid state society
-- Haibane Renmei
 
 Anime
 -----
@@ -170,49 +134,24 @@ English and Danish dubs tend to suck on a cosmic scale.
 - Ponyo
 - Howl's Moving Castle
 - Porco Rosso
-- The Cat Returns
-- Whisper of the Heart
-- Ocean Waves / I Can Hear The Sea
-- Only Yesterday
 - Nausicaä of the Valley of the Wind
 
-### By Katsuhiro Otomo
+### Other movies
 - Akira
 - Memories
-
-### By Satoshi Kon
 - Paprika
-
-### Other movies
 - The Girl Who Leapt Through Time (Toki o kakeru shoujo)
 - The Sky Crawlers
 - Metropolis
-- Anything by Studio 4C
 
 ### Series & Boxsets
-- Azumanga Daioh
 - Cowboy Bebop
-- Elfen Lied
 - Ergo Proxy
 - FLCL (Fooly Cooly / Furi Kuri)
 - Genshiken
-- Ghost in the Shell: Stand Alone Complex
-- Ghost in the Shell: Stand Alone Complex 2nd gig
 - Last Exile
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion Movie Collection
-- Nichijou
-- Someday's Dreamers
-
-Movies and TV Series
---------------------
-
-*NB:* Blu-ray is preferred when available.
-
-- Joss Whedon's Firefly
-- Shinobi - Heart under blade
-- Crouching Tiger Hidden Dragon / Tiger på spring Drage i skjul (with original audio track!)
-
 
 ### My other wishlists
 - [Amazon.co.uk][amazonuk]
@@ -226,4 +165,3 @@ Movies and TV Series
 [cdj]: http://cdjapan.co.jp
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
 [amazonjp]: https://www.amazon.co.jp/wishlist/G6ITG4SZ1X8V
-[ffxiiost]: http://www.amazon.co.uk/Final-Fantasy-Vol-Original-Soundtrack/dp/B000EWBCQ0/ref=sr_1_3?ie=UTF8&s=music&qid=1260576205&sr=1-3
