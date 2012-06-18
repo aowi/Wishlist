@@ -14,6 +14,8 @@ Assorted stuff
 --------------
 
 - Victorinox Kehlen backpack
+- [Portal bogstøtter][portal_bookends]
+- [A trusted friend in Science-plakat][portal_poster]
 
 Kitchenware
 -----------
@@ -165,3 +167,5 @@ English and Danish dubs tend to suck on a cosmic scale.
 [cdj]: http://cdjapan.co.jp
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
 [amazonjp]: https://www.amazon.co.jp/wishlist/G6ITG4SZ1X8V
+[portal_bookends]: http://store.valvesoftware.com/product.php?i=A01127
+[portal_poster]: http://store.valvesoftware.com/product.php?i=P0113
