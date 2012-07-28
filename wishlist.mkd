@@ -1,54 +1,59 @@
-Wishlist
-========
+Ønskeliste
+==========
 
-The items on this list varies greatly in price range and availability because
-I use this list to keep track of things I want/need to buy when I have the time
-and money. There are also items on this list that have yet to be released.
-Tread carefully.
+Tingene på denne liste kan variere meeget i pris og tilgængelighed, da jeg
+bruger den som en huskeliste, mere end en ønskeseddel. Der er også ting på
+listen, som endnu ikke er udgivet.
+Træd varsomt.
 
-### Table of Contents
-- Table of contents
+### Indhold
+- Indhold
 {:toc}
 
-Assorted stuff
---------------
+Diverse
+-------
 
-- Victorinox Kehlen backpack
+- Victorinox Kehlen rygsæk (Victorinox har en butik i København)
 - [Portal bogstøtter][portal_bookends]
 - [A trusted friend in Science-plakat][portal_poster]
 
-Kitchenware
+Køkkenting
 -----------
 
-- Nigiri-forms
+- Nigiri-forme
 - Krydderiglas, gerne med magnetisk ophæng (gennemsigtigt glas, ikke dåser el. lign.)
 - Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål _DKK 449,-_
 - Eva Trio Suppegryde, 10 ltr, rustfrit stål _DKK 1099,-_
 - Vandkaraffel (ikke Rosendahl!)
 - Kyocera 14cm keramisk santokukniv.
 
-Books
+Bøger
 -----
 
-I generally prefer english translations of japanese books over the danish.
+Jeg foretrækker for det meste engelske oversættelser af japanske bøger, over de
+danske. Men Mette Holm (som bl.a. har oversat Murakami) er ganske udmærket.
+Ligeledes foretrækker jeg bøger af engelsksprogede forfattere på originalsproget.
 
-### Fiction
+### Fiktion
 
 - J.R.R. Tolkien: The Children of Hurin _ISBN-10: 0007252269_
 
-### Non-fiction
+### Ikke-fiktion
 - J. J. Sakurai: Modern Quantum Mechanics
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 
-### Comics
+### Tegneserier
 - Walt Disney's Hall of Fame: Don Rosa bog 1, 4- 
 
-Music
+Musik
 -----
 
-Some of the listed music is not available in Danish music shops, and might
-not even be available in most English online music shops. For Japanese CDs,
-[cdjapan][cdj] is usually a good option.
+Nogle af nedenstående musik er ikke tilgængelig i Danske musikforretninger, og
+noget er ikke engang til salg i online musikbutikker. For japansk musik er
+[cdjapan][cdj] ofte et godt sted at kigge.
+
+iTunes er helt fint, men andre musikbutikker, der kræver at jeg tilmelder mig
+er ikke.
 
 - A Kid Hereafter: Yo!
 - ALI Project: Rose Crucifixion
@@ -70,45 +75,45 @@ not even be available in most English online music shops. For Japanese CDs,
 - Yoko Kanno: Song to fly
 - Zero 7: When it falls
 
-### Game soundtracks
+### Spil-soundtracks
 - Takt of Wind / Kaze no Tact (Legend of Zelda: Wind Waker OST)
 - Voices: Music from Final Fantasy
 - Distant Worlds: Music from Final Fantasy
 
-Games
------
+Spil
+----
 
-### Wii Games
+### Wii-spil
 - Okami
 - Xenoblade
 - The Last Story
 - Pandora's Tower
 
-### Nintendo DS Games
+### Nintendo DS-spil
 - The world ends with you
 - Chrono Trigger
 
-### Playstation 3 Games
+### Playstation 3-spil
 - Assassin's Creed III
 - Final Fantasy XIII Versus
 - The Last Guardian
 - GTA V
 
-### Playstation 2 Games
+### Playstation 2-spil
 - We Love Katamari
 
-### SNES Games
+### SNES-spil
 
-*NB*: These can obviously only be bought used.
+*NB*: Disse kan kun købes brugt. ebay.co.uk er nok det bedste bud.
 
-- Final Fantasy V (I have an NTSC-adaptor)
+- Final Fantasy V (jeg har en NTSC-adaptor)
 - Final Fantasy VI
 - Secret of Mana
 
 Manga
 -----
 
-*NB:* Please: no manga in Danish!
+*NB:* Ingen manga på dansk!
 
 - Black Jack (Ozamu Tezuka)
 - Buddha (Ozamu Tezuka)
@@ -119,26 +124,27 @@ Manga
 Anime
 -----
 
-Most of the series listed here are available both as boxsets and single volumes.
-I have no particular preference and unless otherwise noted, you can assume that
-I don't own any of the volumes.
+De fleste serier her, kan både købes som boxsæt og individuelle skiver. Jeg har
+ingen preferencer, og med mindre der står andet, kan du antage at jeg ikke ejer
+nogle volumes endnu.
 
-*NB* Where available, Region 2/B Bluray is preferred to DVD. Any other
-region-locked Bluray should be avoided. There are no restrictions on DVD
-regions. Please note that most Blurays are in fact region free, meaning
-they will work just fine.
+*NB* Region 2/B Bluray er foretrukket frem for DVD. Bluray-skiver låst til
+andre regioner er ubrugelige desværre.  Der er ingen begrænsning på
+DVD-regioner.  Bemærk at de fleste Blurays faktisk er regionsfrie, og derfor
+vil være helt fine.
 
-Please do not buy any of these without the original, Japanese audio track.
-English and Danish dubs tend to suck on a cosmic scale.
+Køb ikke nogle af disse uden det originale, japanske lydspor. Danske og
+engelske dubs har det med at suge kosmisk. Om de har danske eller engelske
+undertekster er mig underordnet.
 
-### Studio Ghibli movies
+### Studio Ghibli-film
 - The Borrower Arietty
 - Ponyo
 - Howl's Moving Castle
 - Porco Rosso
 - Nausicaä of the Valley of the Wind
 
-### Other movies
+### Andre film
 - Akira
 - Memories
 - Paprika
@@ -146,7 +152,7 @@ English and Danish dubs tend to suck on a cosmic scale.
 - The Sky Crawlers
 - Metropolis
 
-### Series & Boxsets
+### Serier & Boxsæt
 - Cowboy Bebop
 - Ergo Proxy
 - FLCL (Fooly Cooly / Furi Kuri)
@@ -155,13 +161,13 @@ English and Danish dubs tend to suck on a cosmic scale.
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion Movie Collection
 
-### My other wishlists
+### Andre ønskelister
 - [Amazon.co.uk][amazonuk]
 - [Amazon.co.jp][amazonjp]
 
-### Vendors
-- [Faraos Cigarer](http://faraos.dk): They have much of the manga and anime on this list.
-- [CD Japan][cdj]: Japanese music not easily found elsewhere
+### Forhandlere
+- [Faraos Cigarer](http://faraos.dk): Det meste manga og anime listet her kan findes hos dem. De er venlige og ved, hvad de taler om.
+- [CD Japan][cdj]: Exportør af japansk musik, der ikke bliver solgt i vesten.
 
 [evatrio]: http://www.eva-trio.com
 [cdj]: http://cdjapan.co.jp
