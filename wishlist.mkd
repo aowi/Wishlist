@@ -15,7 +15,7 @@ Diverse
 
 - [Portal bogstøtter][portal_bookends]
 - [A trusted friend in Science-plakat][portal_poster]
-- Atlas, kort, etc. Historiske, fiktive, politiske...
+- Atlas, store kort (plakat-størrelse), etc. Historiske, fiktive, politiske...
 
 Køkkenting
 -----------
@@ -28,7 +28,6 @@ Køkkenting
 - Cognacglas (Erik Bagger eller tilsvarende)
 - Bestiksæt (Philadelphia, Raadvad Erica eller tilsvarende i rent metal) 
 - Springform. Metal eller silikone
-- Raadvad Sensei brødkniv
 - Kyocera 14cm keramisk santokukniv.
 - Pillivuyt tærteformesæt
 - Ramekin
@@ -47,6 +46,8 @@ Jeg foretrækker for det meste engelske oversættelser af japanske bøger, over 
 danske. Men Mette Holm (som bl.a. har oversat Murakami) er ganske udmærket.
 Ligeledes foretrækker jeg bøger af engelsksprogede forfattere på originalsproget.
 
+Der er en længere liste på [Amazon][amzn]
+
 ### Fiktion
 
 - J.R.R. Tolkien: The Children of Hurin _ISBN-10: 0007252269_
@@ -55,6 +56,7 @@ Ligeledes foretrækker jeg bøger af engelsksprogede forfattere på originalspro
 - J. J. Sakurai: Modern Quantum Mechanics
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - The Chicago Manual of Style
+- The Font Book
 
 ### Tegneserier
 - Walt Disney's Hall of Fame: Don Rosa bog 1, 4- 
@@ -194,3 +196,4 @@ undertekster er mig underordnet.
 [amazonjp]: https://www.amazon.co.jp/wishlist/G6ITG4SZ1X8V
 [portal_bookends]: http://store.valvesoftware.com/product.php?i=A01127
 [portal_poster]: http://store.valvesoftware.com/product.php?i=P0113
+[amzn]: http://amzn.com/w/1XNIF0OD5M6GY
