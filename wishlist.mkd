@@ -1,7 +1,7 @@
 Ønskeliste
 ==========
 
-Tingene på denne liste kan variere meeget i pris og tilgængelighed, da jeg
+Tingene på denne liste kan variere meget i pris og tilgængelighed, da jeg
 bruger den som en huskeliste, mere end en ønskeseddel. Der er også ting på
 listen, som endnu ikke er udgivet.
 Træd varsomt.
@@ -16,6 +16,8 @@ Diverse
 - [Portal bogstøtter][portal_bookends]
 - [A trusted friend in Science-plakat][portal_poster]
 - Atlas, store kort (plakat-størrelse), etc. Historiske, fiktive, politiske...
+- Gavekort til Amazon.com (kindle-bøger), Amazon.co.uk (andre engelske bøger) eller danske boghandlere.
+- LPer med jazz, blues, klassisk og andet godt.
 
 Køkkenting
 -----------
@@ -27,11 +29,9 @@ Køkkenting
 - Cognacglas (Erik Bagger eller tilsvarende)
 - Bestiksæt (Philadelphia, Raadvad Erica eller tilsvarende i rent metal) 
 - Springform. Metal eller silikone
-- Kyocera 14cm keramisk santokukniv.
 - Håndmikser
 - Skål + kniv til Bamix stavblender
 - Elkedel
-- Slibestav / strygestål
 - Sprøjtepose
 - Quattro glas i alle størrelse (opbevaringsglas med låg)
 - Herstal Leona-skåle (sort/grøn)
@@ -50,64 +50,24 @@ Der er en længere liste på [Amazon][amzn]
 - J.R.R. Tolkien: The Children of Hurin _ISBN-10: 0007252269_
 
 ### Ikke-fiktion
+- Joseph Campbell: The Hero With a Thousand Faces
+- James D. Watson: The Double Helix
+- Matt Ridley: Genome: The Autobiography of a Species
+- Julie Steele: Beautiful Visualization
+- Jill Jonnes: Empires of Light
+- Alan Mackay: A Dictionary of Scientific Quotations
 - J. J. Sakurai: Modern Quantum Mechanics
+- Charles Misner: Gravitation
 - Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - The Chicago Manual of Style
 - The Font Book
 
-### Tegneserier
-- Walt Disney's Hall of Fame: Don Rosa bog 1, 4- 
-
-Musik
------
-
-Nogle af nedenstående musik er ikke tilgængelig i Danske musikforretninger, og
-noget er ikke engang til salg i online musikbutikker. For japansk musik er
-[cdjapan][cdj] ofte et godt sted at kigge.
-
-iTunes er helt fint, men andre musikbutikker, der kræver at jeg tilmelder mig
-er ikke.
-
-- A Kid Hereafter: Yo!
-- Angela Aki: Home
-- Belle & Sebastian - The boy with the arab strap
-- eufonius: Eufonius
-- eufonius: metafysik
-- Gåte: Jygri
-- Gnarls Barkley: The Odd Couple
-- Kojima Mayumi: My name is blue
-- OK Go: Of the blue color of the sky
-- Origa: Aurora
-- Origa: Era of queens
-- Supercell: Today Is A Beautiful Day
-- Yoko Kanno: Song to fly
-- Zero 7: When it falls
-
-### Spil-soundtracks
-- Takt of Wind / Kaze no Tact (Legend of Zelda: Wind Waker OST)
-- Voices: Music from Final Fantasy
-- Distant Worlds: Music from Final Fantasy
-
 Spil
 ----
-
-### Wii-spil
-- Okami
-- Xenoblade
-- The Last Story
-- Pandora's Tower
 
 ### Nintendo DS-spil
 - The world ends with you
 - Chrono Trigger
-
-### Playstation 3-spil
-- Final Fantasy XIII Versus
-- The Last Guardian
-- GTA V
-
-### Playstation 2-spil
-- We Love Katamari
 
 ### SNES-spil
 
@@ -118,8 +78,11 @@ Spil
 - Secret of Mana
 
 ### TBD
- - Watch Dogs
- - Lightning Returns: Final Fantasy
+- Watch Dogs
+- Lightning Returns: Final Fantasy
+- Final Fantasy XIII Versus
+- The Last Guardian
+- GTA V
 
 Manga
 -----
@@ -150,6 +113,7 @@ undertekster er mig underordnet.
 - The Borrower Arietty
 - Howl's Moving Castle
 - Porco Rosso
+- From Up On Poppy Hill
 
 ### Andre film
 - Akira
@@ -159,27 +123,11 @@ undertekster er mig underordnet.
 - The Sky Crawlers
 - Metropolis
 
-### Serier & Boxsæt
-- Cowboy Bebop
-- Ergo Proxy
-- FLCL (Fooly Cooly / Furi Kuri)
-- Genshiken
-- Last Exile
-- Neon Genesis Evangelion
-- Neon Genesis Evangelion Movie Collection
-
 ### Andre ønskelister
 - [Amazon.co.uk][amazonuk]
-- [Amazon.co.jp][amazonjp]
-
-### Forhandlere
-- [Faraos Cigarer](http://faraos.dk): Det meste manga og anime listet her kan findes hos dem. De er venlige og ved, hvad de taler om.
-- [CD Japan][cdj]: Exportør af japansk musik, der ikke bliver solgt i vesten.
 
 [evatrio]: http://www.eva-trio.com
-[cdj]: http://cdjapan.co.jp
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
-[amazonjp]: https://www.amazon.co.jp/wishlist/G6ITG4SZ1X8V
 [portal_bookends]: http://store.valvesoftware.com/product.php?i=A01127
 [portal_poster]: http://store.valvesoftware.com/product.php?i=P0113
 [amzn]: http://amzn.com/w/1XNIF0OD5M6GY
