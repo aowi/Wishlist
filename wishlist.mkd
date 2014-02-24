@@ -18,6 +18,7 @@ Diverse
 - Atlas, store kort (plakat-størrelse), etc. Historiske, fiktive, politiske...
 - Gavekort til Amazon.com (kindle-bøger), Amazon.co.uk (andre engelske bøger) eller danske boghandlere.
 - LPer med jazz, blues, klassisk og andet godt.
+- 3DS
 
 Køkkenting
 -----------
@@ -27,7 +28,6 @@ Køkkenting
 - Eva Trio Suppegryde, 10 ltr, rustfrit stål _DKK 1099,-_
 - Cognacglas (Erik Bagger eller tilsvarende)
 - Springform. Metal eller silikone
-- Håndmikser
 - Skål + kniv til Bamix stavblender
 - Elkedel
 - Sprøjtepose
@@ -63,9 +63,11 @@ Der er en længere liste på [Amazon][amzn]
 Spil
 ----
 
-### Nintendo DS-spil
+### Nintendo DS/3DS-spil
 - The world ends with you
 - Chrono Trigger
+- Bravely Default
+- TLoZ: A Link Between Worlds
 
 ### SNES-spil
 
@@ -77,17 +79,14 @@ Spil
 
 ### TBD
 - Watch Dogs
-- Lightning Returns: Final Fantasy
-- Final Fantasy XIII Versus
 - The Last Guardian
+- Final Fantasy XV
 
 Manga
 -----
 
 *NB:* Ingen manga på dansk!
 
-- Black Jack (Ozamu Tezuka)
-- Ghost in the shell 2: man machine interface
 - Ghost in the shell: solid state society
 
 Anime
@@ -107,7 +106,6 @@ engelske dubs har det med at suge kosmisk. Om de har danske eller engelske
 undertekster er mig underordnet.
 
 ### Studio Ghibli-film
-- The Borrower Arietty
 - Howl's Moving Castle
 - Porco Rosso
 - From Up On Poppy Hill
@@ -115,7 +113,6 @@ undertekster er mig underordnet.
 ### Andre film
 - Akira
 - Memories
-- Paprika
 - The Girl Who Leapt Through Time (Toki o kakeru shoujo)
 - The Sky Crawlers
 - Metropolis
