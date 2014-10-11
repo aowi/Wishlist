@@ -18,6 +18,7 @@ Diverse
 - Atlas, store kort (plakat-størrelse), etc. Historiske, fiktive, politiske...
 - Gavekort til Amazon.com (kindle-bøger), Amazon.co.uk (andre engelske bøger) eller danske boghandlere.
 - LPer med jazz, blues, klassisk og andet godt (en bunke fra et af Accords udsalg f.eks.).
+- God whisky og cognac
 - 3DS
 - Wii U
 
@@ -25,27 +26,38 @@ Køkkenting
 -----------
 
 - Krydderiglas, gerne med magnetisk ophæng (gennemsigtigt glas, ikke dåser el. lign.)
+- Krydderikværn
 - Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål _DKK 449,-_
 - Eva Trio Suppegryde, 10 ltr, rustfrit stål _DKK 1099,-_
 - Cognacglas (Erik Bagger eller tilsvarende)
-- Springform. Metal eller silikone
-- Skål + kniv til Bamix stavblender
 - Sprøjtepose
 - Quattro glas i alle størrelse (opbevaringsglas med låg)
-- Herstal Leona-skåle (sort/grøn)
+- Zwilling Japansk Kokkekniv (18 cm santoku-kniv)
+- Skål + kniv til Bamix stavblender
+
 
 Bøger
 -----
 
-Jeg foretrækker for det meste engelske oversættelser af japanske bøger, over de
-danske. Men Mette Holm (som bl.a. har oversat Murakami) er ganske udmærket.
-Ligeledes foretrækker jeg bøger af engelsksprogede forfattere på originalsproget.
+Jeg foretrækker bøger af engelske/amerikanske forfattere på originalsproget.
+Politikens Boghal er ofte et godt sted at finde dem.
 
 Der er en længere liste på [Amazon][amzn]
 
 ### Fiktion
 
 - J.R.R. Tolkien: The Children of Hurin _ISBN-10: 0007252269_
+- Raymond Chandler:
+ * Farewell, My Lovely
+ * The High Window
+ * The Lady in the Lake
+ * The Little Sister
+ * The Long Goodbye
+- Neil Gaiman:
+ * Anansi Boys
+ * Stardust
+ * The Ocean at the End of the Lane
+- Scott Lynch: Red Seas Under Red Skies
 
 ### Ikke-fiktion
 - Joseph Campbell: The Hero With a Thousand Faces
@@ -56,18 +68,36 @@ Der er en længere liste på [Amazon][amzn]
 - Alan Mackay: A Dictionary of Scientific Quotations
 - J. J. Sakurai: Modern Quantum Mechanics
 - Charles Misner: Gravitation
-- Kim Schulz: Hacking Vim _ISBN-10: 1847190936_
 - The Chicago Manual of Style
 - The Font Book
 
+### Tegneserier
+ - Neil Gaiman:
+  * Fortunately The Milk
+  * Sandman (vol. 1)
+
 Spil
 ----
+
+### Brætspil
+
+Faraos eller Games kan ofte være behjælpelige med at skaffe nogle af de mere
+obskure spil. Ellers er Amazon et godt sted at starte.
+
+ - Power grid
+ - Agricola
+ - Android: Netrunner
+ - Galaxy trucker
+ - Citadels
+ - Hanabi
+ - Pandemic
+ - Tzolk'in
+ - Shadowrun: Crossfire
 
 ### Nintendo DS/3DS-spil
 - The world ends with you
 - Chrono Trigger
 - Bravely Default
-- TLoZ: A Link Between Worlds
 
 ### SNES-spil
 
@@ -76,11 +106,6 @@ Spil
 - Final Fantasy V (jeg har en NTSC-adaptor)
 - Final Fantasy VI
 - Secret of Mana
-
-### TBD
-- Watch Dogs
-- The Last Guardian
-- Final Fantasy XV
 
 ### Andre ønskelister
 - [Amazon.co.uk][amazonuk]
