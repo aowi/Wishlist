@@ -6,10 +6,6 @@ bruger den som en huskeliste, mere end en ønskeseddel. Der er også ting på
 listen, som endnu ikke er udgivet.
 Træd varsomt.
 
-### Indhold
-- Indhold
-{:toc}
-
 Diverse
 -------
 
@@ -35,6 +31,18 @@ Køkkenting
 - Zwilling Japansk Kokkekniv (18 cm santoku-kniv)
 - Skål + kniv til Bamix stavblender
 
+LPer
+----
+
+Discogs.com har et godt udvalg af brugte LPer.
+
+ - Orbital: Orbital 2 (Brown Album)
+ - Daft Punk: Random Access Memories
+ - The xx: Coexist
+ - Franz Liszt, Lazar Berman - Années De Pèlerinage
+ - Anamanaguchi:
+   * Endless Fantasy
+   * Dawn Metropolis
 
 Bøger
 -----
@@ -46,6 +54,7 @@ Der er en længere liste på [Amazon][amzn]
 
 ### Fiktion
 
+- Hugh Howey: Wool
 - J.R.R. Tolkien: The Children of Hurin _ISBN-10: 0007252269_
 - William Gibson: The Peripheral
 - Raymond Chandler:
