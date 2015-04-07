@@ -92,6 +92,9 @@ Spil
 Faraos eller Games kan ofte være behjælpelige med at skaffe nogle af de mere
 obskure spil. Ellers er Amazon et godt sted at starte.
 
+ - Fluxx
+ - Gloom
+ - Welcome to the dungeon / Dungeon of Mandom
  - Power grid
  - Android: Netrunner
  - Galaxy trucker
