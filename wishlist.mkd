@@ -9,7 +9,6 @@ Træd varsomt.
 Diverse
 -------
 
-- [Portal bogstøtter][portal_bookends]
 - [A trusted friend in Science-plakat][portal_poster]
 - Atlas, store kort (plakat-størrelse), etc. Historiske, fiktive, politiske...
 - Gavekort til Amazon.com (kindle-bøger), Amazon.co.uk (andre engelske bøger) eller danske boghandlere.
@@ -101,11 +100,6 @@ obskure spil. Ellers er Amazon et godt sted at starte.
  - Hanabi
  - Pandemic
  - Tzolk'in
- - Shadowrun: Crossfire
-
-### Nintendo DS-spil
-- The world ends with you
-- Chrono Trigger
 
 ### SNES-spil
 
