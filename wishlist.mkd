@@ -52,7 +52,6 @@ Der er en længere liste på [Amazon][amzn]
 
 ### Fiktion
 
-- William Gibson: The Peripheral
 - Raymond Chandler:
  * Farewell, My Lovely
  * The High Window
@@ -95,10 +94,8 @@ obskure spil. Ellers er Amazon et godt sted at starte.
  - Chez Geek
  - Power grid
  - Android: Netrunner
- - Galaxy trucker
  - Citadels
  - Hanabi
- - Pandemic
  - Tzolk'in
 
 ### SNES-spil
