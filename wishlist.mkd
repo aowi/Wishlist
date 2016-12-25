@@ -10,7 +10,7 @@ Diverse
 -------
 
 - [A trusted friend in Science-plakat][portal_poster]
-- Atlas, store kort (plakat-størrelse), etc. Historiske, fiktive, politiske...
+- Atlas. Historiske, fiktive, politiske...
 - Gavekort til Amazon.com (kindle-bøger), Amazon.co.uk (andre engelske bøger) eller danske boghandlere.
 - LPer med jazz, blues, klassisk og andet godt (en bunke fra et af Accords udsalg f.eks.).
 - God whisky og cognac
@@ -58,10 +58,7 @@ Der er en længere liste på [Amazon][amzn]
  * The Lady in the Lake
  * The Little Sister
  * The Long Goodbye
-- Neil Gaiman:
- * Anansi Boys
- * Stardust
- * The Ocean at the End of the Lane
+- Neil Gaiman: Anansi Boys
 - Scott Lynch: Red Seas Under Red Skies
 
 ### Ikke-fiktion
@@ -94,7 +91,6 @@ obskure spil. Ellers er Amazon et godt sted at starte.
  - Power grid
  - Android: Netrunner
  - Citadels
- - Hanabi
  - Tzolk'in
 
 ### SNES-spil
