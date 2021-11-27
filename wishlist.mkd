@@ -9,7 +9,6 @@ Træd varsomt.
 Diverse
 -------
 
-- [A trusted friend in Science-plakat][portal_poster]
 - Atlas. Historiske, fiktive, politiske...
 - Gavekort til Amazon.com (kindle-bøger), Amazon.co.uk (andre engelske bøger) eller danske boghandlere.
 - LPer med jazz, blues, klassisk og andet godt (en bunke fra et af Accords udsalg f.eks.).
@@ -18,15 +17,15 @@ Diverse
 - Diamine Music Collection Ink Bottle Set
 - Diamine Flowers Collection Ink Bottle Set
 - Pilot Iroshizuku blæk (chiku-rin, fuyu-syogun, yama-budo)
+- Rhodia A5 notesbog (prikket/dotted papir)
 
 Køkken- og husting
 -----------
 
-- Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål _DKK 449,-_
-- Oliekaraffel ([f.eks.](https://www.evasolo.com/da/kokken/kokkenudstyr/kokkenredskaber/olie-eddikeflaske/567686/))
-- Vandkande (til planter)
+- Eva Trio Stegepande med vaflet bund, 24 cm, rustfrit stål
 - Håndklæder (te- og badehåndklæder)
-- Selvvandingsurtepotter
+- Gense Fuga bestik (blank stål)
+- Spisebordsduge (bordet er Ø125 cm)
 
 LPer
 ----
@@ -47,12 +46,12 @@ Bøger
 Jeg foretrækker bøger af engelske/amerikanske forfattere på originalsproget.
 Politikens Boghal er ofte et godt sted at finde dem.
 
-Der er en længere liste på [Amazon][amzn]
-
 ### Fiktion
-
+- Neal Stephenson: Termination Shock
 
 ### Ikke-fiktion
+- Breve fra ... (Informations forlag)
+- Marie Lund: Danske Taler
 - Bruce Schneier: Click Here To Kill Everybody
 - James D. Watson: The Double Helix
 - Matt Ridley: Genome: The Autobiography of a Species
@@ -64,6 +63,7 @@ Der er en længere liste på [Amazon][amzn]
 - The Font Book
 
 ### Tegneserier
+- Satoshi Kon's OPUS
 - Keep Your Hands Off Eizouken (vol 1-)
 - Battle Angel Alita: Last Order Omnibus (vol 1-5)
 - Battle Angel Alita Mars Chronicle (vol 1 - 6)
@@ -76,8 +76,6 @@ Spil
 ### Brætspil
  - Sushi Go
  - Azul
- - Deception: Murder in Hong Kong
- 
  
 ### SNES-spil
 
@@ -86,8 +84,6 @@ Spil
 - Final Fantasy V (jeg har en NTSC-adaptor)
 - Final Fantasy VI
 
-### Andre ønskelister
-- [Amazon.co.uk][amazonuk]
 
 [evatrio]: http://www.eva-trio.com
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
