@@ -17,8 +17,9 @@ Køkken- og husting
 LPer
 ----
 
-Discogs.com har et godt udvalg af brugte LPer.
+Accord.dk og Discogs.com har et godt udvalg af brugte LPer.
 
+ - Orbital: Orbital (2024 reissue)
  - Orbital: Orbital 2 (Brown Album)
 
 Bøger
@@ -29,6 +30,9 @@ Politikens Boghal er ofte et godt sted at finde dem.
 
 ### Fiktion
 - Charles Stross: Empire Games
+- Emily Tesh: Some Desperate Glory
+- Mary Robinette Kowal: The Spare Man
+- Annalee Newitz: The Terraformers
 
 ### Ikke-fiktion
 - Breve fra ... (Informations forlag)
@@ -53,6 +57,7 @@ Spil
 ### Brætspil
 - The Mind
 - Codenames (på engelsk)
+- Twilight Struggle (Grundspil)
 
 
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
