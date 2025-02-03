@@ -11,8 +11,7 @@ Diverse
 Køkken- og husting
 -----------
 
-- Krydderiglas (gennemsigtige)
-- Vægur til køkken, f.eks. https://www.pindhus.dk/retro-vaegur-plint-leaf
+- 
 
 LPer
 ----
@@ -21,6 +20,7 @@ Accord.dk og Discogs.com har et godt udvalg af brugte LPer.
 
  - Orbital: Orbital (2024 reissue)
  - Orbital: Orbital 2 (Brown Album)
+ - Willie Nelson: Live at Budokan
 
 Bøger
 -----
@@ -29,14 +29,14 @@ Jeg foretrækker bøger af engelske/amerikanske forfattere på originalsproget.
 Politikens Boghal er ofte et godt sted at finde dem.
 
 ### Fiktion
+- Neal Stephenson: Polostan
+- Susanna Clarke: Jonathan Strange & Mr Norrell
 - Charles Stross: Empire Games
-- Emily Tesh: Some Desperate Glory
 - Mary Robinette Kowal: The Spare Man
 - Annalee Newitz: The Terraformers
 
 ### Ikke-fiktion
 - Breve fra ... (Informations forlag)
-- Marie Lund: Danske Taler
 - Azar Gat: War in Human Civilization
 - Bruce Schneier: Click Here To Kill Everybody
 - Julie Steele: Beautiful Visualization
@@ -49,7 +49,6 @@ Politikens Boghal er ofte et godt sted at finde dem.
 - Battle Angel Alita: Last Order Omnibus (vol 1-5)
 - Battle Angel Alita Mars Chronicle (vol 1-6)
 - City (vol 2-4)
-- Inio Asano - Solanin
 
 Spil
 ----
@@ -57,8 +56,6 @@ Spil
 ### Brætspil
 - The Mind
 - Codenames (på engelsk)
-- Twilight Struggle (Grundspil)
-
 
 [amazonuk]: http://www.amazon.co.uk/wishlist/2RDW59726073E
 [amzn]: http://amzn.com/w/1XNIF0OD5M6GY
